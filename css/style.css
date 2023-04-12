@@ -1,0 +1,84 @@
+.h1use{
+    color: aqua;
+    background-color: salmon;
+    width: 40%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: brown;
+}
+
+#myTable{
+    background-color: salmon;
+    width: 40%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: brown;
+    padding: 20px 10px;
+    font-size: 0.85em;
+}
+
+/* #confirm_password{
+    border-width: 2px;
+    border-color: red;
+} */
+
+.myhome{
+    border-width: 1px;
+    border-color: brown;
+    background-color: aquamarine;
+    border-style: solid;
+    height: 800px;
+    margin-left: 30px;
+}
+
+table {
+    margin: 30px 30px 30px 30px;
+}
+
+.divMenu{
+    font-size: 2em;
+    margin: 30px 30px;
+    text-align: center;
+}
+
+.mybutton{
+    display: block;
+    margin: auto;
+    background-color: salmon;
+    width: 80%;
+    border-width: 1px;
+    border-color: antiquewhite;
+    border-style: solid;
+    height: 35px;
+    color: brown;
+    font-size: 1.2m;
+}
+
+.myimg{
+    width: 250px;
+    height: auto;
+    margin-left: 150px;
+}
+
+.mytext{
+    font-size: 1.5em;
+    text-align: center;
+    margin-left: 210px;
+    margin-right: 100px;
+}
+
+.submitHome{
+    width: 150px;
+    display: block;
+    margin: auto;
+    background-color: salmon;
+    border-width: 1px;
+    border-color: antiquewhite;
+    border-style: solid;
+    height: 35px;
+    margin-left: 5px;
+    color: brown;
+    font-size: 1.2m;
+    display: inline;
+
+}
